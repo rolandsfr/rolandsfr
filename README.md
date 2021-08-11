@@ -1,5 +1,5 @@
 <h4>As a developer</h4>
-React & Typescript developer</br>
+Typescript developer</br>
 Learning Design Patterns & advanced React + Redux</br>
 Check me out on <i>rolandfrd.com</i><p></p>
 <p><b>. . .</b></p>
