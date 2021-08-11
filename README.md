@@ -5,7 +5,7 @@ Check me out on <i>rolandfrd.com</i><p></p>
 <p><b>. . .</b></p>
 <h4>Activity</h4>
 Working on <b>Profiler</b> - minecraft social media</br>
-Coming in 2022 on <i>profiler.space</i>
+Coming in 2022 on <i>profiler.space</i><p></p>
 <p><b>. . .</b></p>
 <h4>About  me</h4>
 Roland Fridmanis - <b>Insanely</b> enthusiastic about web development </br>
