@@ -4,7 +4,8 @@ Learning Design Patterns & advanced React + Redux</br>
 Check me out on <i>rolandfrd.com</i><p></p>
 <p><b>. . .</b></p>
 <h4>Activity</h4>
-Actively working on Wellfare™, launch in late novemeber<p></p>
+Actively working on Wellfare™, launch in late novemeber
+<p></p>
 Currently designing app for <b>Profiler</b> - minecraft social media</br>
 Coming in 2022 on <i>profiler.space</i><p></p>
 <p><b>. . .</b></p>
