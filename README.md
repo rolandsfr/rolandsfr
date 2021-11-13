@@ -1,6 +1,6 @@
 <h4>As a developer</h4>
 Typescript developer</br>
-Learning Design Patterns & advanced React + Redux</br>
+Learning Design Patterns, React testing & getting used to vim</br>
 Check me out on <i>rolandfrd.com</i><p></p>
 <p><b>. . .</b></p>
 <h4>Activity</h4>
@@ -13,4 +13,4 @@ Coming in 2022 on <i>profiler.space</i><p></p>
 Roland Fridmanis - <b>Insanely</b> enthusiastic about web development </br>
 17, he/him </br>
 Born in Latvia, still living in here ;-; </br>
-Current favorite stack: React + Redux + Typescript
+Current favorite stack: React + NextJs + GraphQL + Typescript
