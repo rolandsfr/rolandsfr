@@ -1,4 +1,3 @@
 Typescript developer</br>
-Learning C++, design Patterns, and algorithms</br>
-Current project: your future wellbeing assistant app <b>Wellfare</b></br>
+1st year computer science student at University of Latvia</br>
 Check me out on <i>[rolandfr.netlify.app](https://rolandfr.netlify.app)</i><p></p>
