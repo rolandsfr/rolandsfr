@@ -1,5 +1,5 @@
 Typescript developer</br>
 Middle Frontend engineer @ Pragmatic Play</br>
-Co-founder of [Eye Get It](https://eyegetit.lv)</br>
+Co-founder of [Eye Get It](https://eyegetit.app)</br>
 3rd year computer science student at University of Latvia</br>
 See my <i>[portfolio](rolandfr.netlify.app)</i><p></p>
