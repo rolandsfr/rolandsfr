@@ -1,4 +1,4 @@
-Typescript developer</br>
+Software Engineer</br>
 Middle Frontend engineer @ Pragmatic Play</br>
 Co-founder of [Eye Get It](https://eyegetit.app)</br>
 3rd year computer science student at University of Latvia</br>
